@@ -3,9 +3,9 @@
 ## Description
 #### A simple chat application based on server-client model where clients can exchange messages and files via the server. 
 
-## Language and Technologies used
+## Language, Technologies and Platform used:
 
-JAVA, Socket Programming, Netbeans IDE. 
+JAVA, Socket Programming, Multithreading, Netbeans IDE. 
 
 
 ## How to run the application:
