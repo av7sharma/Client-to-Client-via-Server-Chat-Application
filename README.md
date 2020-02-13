@@ -1,5 +1,9 @@
 # Simple-Client-to-Client-via-Server-Chat-Apllication
 
+## Description
+#### A simple chat application based on server-client model where clients can exchange messages and files via the server. 
+
+
 ## How to run the application:
 
 Run the server project on a system running the java file ServerMain.
