@@ -3,6 +3,10 @@
 ## Description
 #### A simple chat application based on server-client model where clients can exchange messages and files via the server. 
 
+## Language and Technologies used
+
+JAVA, Socket Programming, Netbeans IDE. 
+
 
 ## How to run the application:
 
