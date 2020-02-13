@@ -16,3 +16,11 @@ Set the ip address of server in client socket and run client on different system
 
 You can run as many instances with each client having a unique name.
 
+
+## Client Login Window
+
+![ClientLoginWindow](https://github.com/av7sharma/Client-to-Client-via-Server-Chat-Application/blob/master/ClientLogin.PNG)
+
+## Chat Window
+
+![ClientChatWindow](https://github.com/av7sharma/Client-to-Client-via-Server-Chat-Application/blob/master/ClientChat.PNG)
